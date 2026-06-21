@@ -1,0 +1,23 @@
+﻿{
+  "name": "Stride Workout",
+  "short_name": "Stride",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "description": "Personal workout guide, tracker, routines, stats, and music companion.",
+  "icons": [
+    {
+      "src": "./pwa-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./pwa-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
